@@ -1,5 +1,5 @@
 {
-    "name": "kafoso/doctrine-firebird-driver",
+    "name": "ajlorente/doctrine-firebird-driver",
     "type": "library",
     "license": "MIT",
     "authors": [
